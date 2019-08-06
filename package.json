@@ -1,0 +1,19 @@
+{
+  "name": "express-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arvind Ravulavaru <arvind.ravulavaru@gmail.com> (http://thejackalofjavascript.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@zenmate/stats": "^1.0.2",
+    "express": "^4.17.1",
+    "express-winston": "^3.3.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.10.0"
+  }
+}
